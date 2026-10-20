@@ -1,4 +1,5 @@
 <footer>
+    <p>About us</p>
     <p>ID512 Fundamentals of Web Development &copy; 1993</p>
 </footer>
 
